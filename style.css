@@ -19,11 +19,13 @@
   width: 675px;
   display: flex;
   flex-direction: column;
+  margin: 15px;
 }
 
 main {
   display: flex;
   justify-content: space-evenly;
+  margin: 10px;
 }
 
 #trybewarts-forms-logo {
@@ -45,6 +47,10 @@ main {
 #submit-btn {
   display: flex;
   align-self: flex-start;
+}
+
+.input-all{
+  margin: 5px;
 }
 
 footer {
