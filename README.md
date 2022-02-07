@@ -7,19 +7,19 @@
 ---
 
 <div>
-  <h3>Esse projeto, tem como intúito apresentar um formulário simples, para prencher os campos em branco com suas informações.</h3>
+  <h3>This project, as intended, presents a simple form to fill in with your information.</h3>
 </div>
 
 ---
 
 <div>
-  <h2>Projeto estilo formulário realizado utilizando:</h2>
+  <h2>Form-style design made using:</h2>
   <li>HTML</li>
-  <li>HTML Semântico</li>
+  <li>Semantic HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
 </div>
 
 ---
 
-<a href="https://vinicius-rampazzo.github.io/trybewarts/">Para navegar nesse mundo de Trybewarts, clique aqui!</a>
+<a href="https://vinicius-rampazzo.github.io/trybewarts/">To navigate this world of Trybewarts, click here!</a>
